@@ -16,4 +16,10 @@ System.out.println("a3 402");
 	public void dist() {
 System.out.println("pblr");
 	}
+	public void sample() {
+System.out.println("git sampple");
+}
+	public void git() {
+System.out.println("git");
+	}
 }
